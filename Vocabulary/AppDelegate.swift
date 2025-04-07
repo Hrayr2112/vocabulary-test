@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Vocabulary
-//
-//  Created by Gevorg Avetisyan on 06.04.25.
-//
-
 import UIKit
 
 @main
